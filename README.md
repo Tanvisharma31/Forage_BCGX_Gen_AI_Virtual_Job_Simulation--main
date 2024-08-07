@@ -1,6 +1,6 @@
 <p>
-<img src="https://github.com/Tanvisharma31/Forage_BCGX_Gen_AI_Virtual_Job_Simulation-/blob/f8817969c667dddc33502a889a1095ce936d1750/Forage.PNG?raw=True" alt="Forage" >
-<img src="https://github.com/Tanvisharma31/Forage_BCGX_Gen_AI_Virtual_Job_Simulation-/blob/f8817969c667dddc33502a889a1095ce936d1750/BCG_MONOGRAM_RGB_GREEN.png?raw=true" height = 100px  alt="CommonWealth Bank" >
+<img src="/Forage.PNG" alt="Forage" >
+<img src="/BCG_MONOGRAM_RGB_GREEN.png" height = 100px  alt="CommonWealth Bank" >
 </p>
 
 
